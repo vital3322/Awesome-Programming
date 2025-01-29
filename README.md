@@ -100,7 +100,7 @@ Focused on:
 
 ### Design Patterns YouTube Videos
 1. [Design Patterns in Object Oriented Programming](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc) - Simpe explanation patterns from "Head First" book.
-2. [Video Title 6](https://www.youtube.com/watch?v=example6) - Description of the video.
+2. [Clean Architecture 12 hours](https://www.youtube.com/watch?v=WlCDcr8JYFU) - Чистая архитектура, Принципы, мышление.
 
 ### Design Patterns Articles
 1. [Medium Post Title 5](https://medium.com/@username/post5) - Description of the post.
