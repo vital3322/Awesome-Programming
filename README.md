@@ -117,8 +117,8 @@ Focused on:
 ## Interview Questions
 
 ### Interview Questions GitHub Repositories
-1. [Repository Name 7](https://github.com/username/repo7) - Description of the repository.
-2. [Repository Name 8](https://github.com/username/repo8) - Description of the repository.
+1. [leetcode-screenshotter](https://github.com/akhilkammila/leetcode-screenshotter) - Screenshots leetcode editorials and problems.
+2. [LeetCode-Questions-CompanyWise](https://github.com/krishnadey30/LeetCode-Questions-CompanyWise) - Contains Company Wise Questions sorted based on Frequency and all time.
 
 ### Interview Questions YouTube Videos
 1. [Эти ОШИБКИ В РЕЗЮМЕ не дадут тебе найти работу](https://www.youtube.com/watch?v=S75omSPqWpU) - Как надо писать резюме, полезные советы.
