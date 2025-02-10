@@ -40,6 +40,8 @@ Focused on:
   - [Articles](#interview-questions-articles)
   - [Courses](#interview-questions-courses)
   - [Books](#interview-questions-books)
+- [Useful Resources](#useful-resources)
+  - [Collaborative Tools](#collaborative-tools)
 
 ## Python
 
