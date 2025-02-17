@@ -109,7 +109,7 @@ Focused on:
 2. [Habr Post Title 6](https://habr.com/en/post/6) - Description of the post.
 
 ### Design Patterns Courses
-1. [Course Title 5](https://www.udemy.com/course/example5) - Description of the course.
+1. [designgurus.io](https://www.designgurus.io/bundle/all-courses) - Сourses on system design.
 2. [Course Title 6](https://www.coursera.org/learn/example6) - Description of the course.
 
 ### Design Patterns Books
